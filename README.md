@@ -39,20 +39,15 @@ git clone https://github.com/YOUR_USERNAME/Bottle.git
 cd Bottle
 ```
 
-### 2️⃣ Install Dependencies
+### 2️⃣ Run the Bot (Installs Dependencies Automatically)
 ```sh
-pip install -r requirements.txt
+python run.py
 ```
 
 ### 3️⃣ Configure the Bot
 - Open the `config.py` file.
 - Replace the `TOKEN` variable with your Discord bot token.
 - Customize the prefix, status, and other settings as needed.
-
-### 4️⃣ Run the Bot
-```sh
-python run.py
-```
 
 ---
 
